@@ -1,7 +1,8 @@
-CaptionVid 1.0.4: free, private auto captions for your videos, made on your phone. Android 10 and later (64-bit).
+CaptionVid 1.0.5 joins TorusApps.com.
 
-- Cutting long pauses and fillers (um, er) is now off by default, so your video keeps its full length unless you choose otherwise. Turn it on when adding videos, in Settings, or for one video under Cuts in the editor.
+- More apps opens torusapps.com; the website and privacy links go to torusapps.com.
+- The update check reads the signed TorusApps catalogue; Update available opens CaptionVid's page and nothing downloads inside the app.
+- Android 12+ splash in CaptionVid's colours before the opening animation (the animation is unchanged).
+- About adds the privacy policy and hello@torusapps.com.
 
-Install it over CaptionVid 1.0.3 to keep your projects and settings. Do not uninstall first.
-
-CaptionVid.apk: 30,776,289 bytes. SHA-256 34cc8a2bf0e285d294874d16cc4025e50447a1f438f4de77bd5f24ad098c3bac
+Installs over the earlier version and keeps everything.
